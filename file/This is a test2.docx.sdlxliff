@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" sdl:version="1.0">
+<doc-info xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+<rev-defs>
+    <rev-def id="8d8dde96-6a9b-431c-a03c-169a89d3fefd" type="FeedbackDeleted" author="JoseNotario" date="08/25/2016 12:22:35" fbCategory="c678e6b4-52f1-45ad-8604-a5dea3347174" fbSeverity="9555fe0f-f111-442a-aa0f-da1344859a96">
+    <sdl:cmt id="e8d6f26e-c6a1-4ec5-8dd9-f1cb52b7b1f8"/>
+</rev-def>
+<rev-def id="40852997-f93c-42f6-a984-2c1d997fda02" type="FeedbackDeleted" author="JoseNotario" date="08/25/2016 12:22:49" fbCategory="c678e6b4-52f1-45ad-8604-a5dea3347174" fbSeverity="9555fe0f-f111-442a-aa0f-da1344859a96">
+<sdl:cmt id="29ebe159-a70b-4331-9959-26ad690e1da9"/>
+</rev-def>
+<rev-def id="8952daeb-7fc9-4ec0-a3d4-8a9236225e9b" type="FeedbackDeleted" author="JoseNotario" date="08/25/2016 12:22:58" fbCategory="c678e6b4-52f1-45ad-8604-a5dea3347174" fbSeverity="9555fe0f-f111-442a-aa0f-da1344859a96">
+<sdl:cmt id="fa3efc61-cc7b-42d4-bb2d-16b7a9acee1f"/>
+</rev-def>
+</rev-defs>
+<cmt-defs>
+    <cmt-def id="e8d6f26e-c6a1-4ec5-8dd9-f1cb52b7b1f8">
+        <Comments>
+            <Comment severity="Low" user="JoseNotario" date="2016-08-25T12:22:35.604215+01:00" version="1.0">HELLO
+        </Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="29ebe159-a70b-4331-9959-26ad690e1da9">
+    <Comments>
+        <Comment severity="Low" user="JoseNotario" date="2016-08-25T12:22:49.683215+01:00" version="1.0">WHAT</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="fa3efc61-cc7b-42d4-bb2d-16b7a9acee1f">
+    <Comments>
+        <Comment severity="Low" user="JoseNotario" date="2016-08-25T12:22:58.696215+01:00" version="1.0">NAME</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="ZalGTqZgp7ZBTOL">
+    <Comments>
+        <Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">sdadas</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="OCuUUzQVXb0G7ky">
+    <Comments>
+        <Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">COMMENT 3</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="Tm80mZJ8pCOqpVM">
+    <Comments>
+        <Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">COmment 1</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="FJfCPk4zEVADfAh">
+    <Comments>
+        <Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">COMMRN</Comment>
+    </Comments>
+</cmt-def>
+<cmt-def id="DCprpn6NOv3TmXJ"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">UNICO COMMENTO </Comment></Comments></cmt-def><cmt-def id="rI8wloeXteZDUfs"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">COMMENT 2</Comment></Comments></cmt-def><cmt-def id="7VL6aJvdRAwLgg9"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">World</Comment></Comments></cmt-def><cmt-def id="0rCN2vpqcowaWp2"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">sdadasCOmment 1 </Comment></Comments></cmt-def><cmt-def id="MQ2uPeimA1fPc6b"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">sdadas </Comment></Comments></cmt-def><cmt-def id="UYKkji82PMfAzYA"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0"> El comentario</Comment></Comments></cmt-def><cmt-def id="6qQPUjuvC2Ss6if"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">Esto es un comentario</Comment></Comments></cmt-def><cmt-def id="kfOP7RKKviz5dXc"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0">Esto es un </Comment></Comments></cmt-def><cmt-def id="4nE8nsZkARnN1QU"><Comments><Comment severity="Low" user="Gabry" date="2000-07-01T00:00:00+02:00" version="1.0"> Uno</Comment></Comments></cmt-def></cmt-defs>
+</doc-info>
+<file original="C:\Users\JoseNotario\Documents\Studio 2015\Projects\Project 4\fi-FI\Hola Mundo.docx" datatype="x-sdlfilterframework2" source-language="fi-FI" target-language="ar-BH">
+    <header>
+        <reference>
+            <internal-file form="base64">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
+            eFBLBQYAAAAAAQABAD8AAAApIwAAAAA=
+        </internal-file>
+    </reference>
+    <sdl:ref-files>
+        <sdl:ref-file uid="0" id="Docx.DependencyFileId" name="ovgzoewd.0e5.docx" o-path="C:\Users\JoseNotario\Documents\Studio 2015\Projects\Project 4\fi-FI\Hola Mundo.docx" date="08/24/2016 14:03:12" expected-use="Generation"/>
+    </sdl:ref-files>
+    <file-info xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+    <value key="SDL:FileId">b4eb5c7b-90d1-449b-ae37-82c4c9cecca5</value>
+    <value key="SDL:CreationDate">08/25/2016 12:19:46</value>
+    <value key="SDL:OriginalFilePath">C:\Users\JoseNotario\Documents\Studio 2015\Projects\Project 4\fi-FI\Hola Mundo.docx</value>
+    <value key="NeedsSegmentRenumbering">False</value>
+    <value key="RelationshipHighestId">5</value>
+    <value key="CommentHighestId">0</value>
+    <value key="ParagraphTextDirections"/>
+    <sniff-info>
+        <detected-source-lang detection-level="Guess" lang="fi-FI"/>
+    </sniff-info>
+</file-info>
+<sdl:filetype-info>
+    <sdl:filetype-id>WordprocessingML v. 2</sdl:filetype-id>
+</sdl:filetype-info>
+<fmt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+<fmt-def id="1">
+    <value key="FontSize">11</value>
+</fmt-def>
+</fmt-defs>
+<cxt-defs xmlns="http://sdl.com/FileTypes/SdlXliff/1.0">
+<cxt-def id="1" type="LocationDetails" purpose="Location">
+    <fmt id="1"/>
+    <props>
+        <value key="StartsAt">1242</value>
+        <value key="EndsAt">1517</value>
+        <value key="ParagraphFormatting"/>
+        <value key="document">word\document.xml</value>
+    </props>
+</cxt-def>
+<cxt-def id="2" type="sdl:paragraph"/>
+<cxt-def id="3" type="LocationDetails" purpose="Location">
+    <fmt id="1"/>
+    <props>
+        <value key="StartsAt">1523</value>
+        <value key="EndsAt">1867</value>
+        <value key="ParagraphFormatting"/>
+        <value key="document">word\document.xml</value>
+    </props>
+</cxt-def>
+<cxt-def id="4" type="LocationDetails" purpose="Location">
+    <fmt id="1"/>
+    <props>
+        <value key="StartsAt">1873</value>
+        <value key="EndsAt">2110</value>
+        <value key="ParagraphFormatting"/>
+        <value key="document">word\document.xml</value>
+    </props>
+</cxt-def>
+<cxt-def id="5" type="LocationDetails" purpose="Location">
+    <fmt id="1"/>
+    <props>
+        <value key="StartsAt">2116</value>
+        <value key="EndsAt">2845</value>
+        <value key="ParagraphFormatting"/>
+        <value key="document">word\document.xml</value>
+    </props>
+</cxt-def>
+</cxt-defs>
+</header>
+<body>
+    <group>
+        <sdl:cxts>
+            <sdl:cxt id="1"/>
+            <sdl:cxt id="2"/>
+        </sdl:cxts>
+        <trans-unit id="7b81f5bc-31ac-4588-bf23-e24c316c4e69">
+            <source>Hola Mundo</source>
+            <seg-source>
+                <mrk mtype="seg" mid="1">Hola Mundo</mrk>
+            </seg-source>
+            <target>
+                <mrk mtype="seg" mid="1">
+                    <mrk mtype="x-sdl-feedback-deleted" sdl:revid="8d8dde96-6a9b-431c-a03c-169a89d3fefd">Hello
+                    </mrk> Word     
+                    <mrk mtype="x-sdl-comment" sdl:cid="ZalGTqZgp7ZBTOL"/>
+                    <mrk mtype="x-sdl-comment" sdl:cid="Tm80mZJ8pCOqpVM"/>
+                <mrk mtype="x-sdl-comment" sdl:cid="DCprpn6NOv3TmXJ"/><mrk mtype="x-sdl-feedback-deleted" sdl:revid="7VL6aJvdRAwLgg9"/><mrk mtype="x-sdl-comment" sdl:cid="0rCN2vpqcowaWp2"/><mrk mtype="x-sdl-comment" sdl:cid="MQ2uPeimA1fPc6b"/></mrk>
+            </target>
+            <sdl:seg-defs>
+                <sdl:seg id="1" conf="Draft" origin="interactive">
+                    <sdl:value key="SegmentIdentityHash">N25YoaWaIhc6nE3uOOEbsgdygJk=</sdl:value>
+                    <sdl:value key="created_by">GLOBALVOICES\JoseNotario</sdl:value>
+                    <sdl:value key="created_on">08/25/2016 11:20:53</sdl:value>
+                    <sdl:value key="last_modified_by">GLOBALVOICES\JoseNotario</sdl:value>
+                    <sdl:value key="modified_on">08/25/2016 11:20:53</sdl:value>
+                </sdl:seg>
+            </sdl:seg-defs>
+        </trans-unit>
+    </group>
+    <group>
+        <sdl:cxts>
+            <sdl:cxt id="3"/>
+            <sdl:cxt id="2"/>
+        </sdl:cxts>
+        <trans-unit id="8bb19bf3-0117-4dcd-9989-29a3bbc0809d">
+            <source>Que tal estas?</source>
+            <seg-source>
+                <mrk mtype="seg" mid="2">Que tal estas?</mrk>
+            </seg-source>
+            <target>
+                <mrk mtype="seg" mid="2">How are you
+            <mrk mtype="x-sdl-comment" sdl:cid="rI8wloeXteZDUfs"/></mrk>
+        </target>
+        <sdl:seg-defs>
+            <sdl:seg id="2" conf="Draft" origin="interactive">
+                <sdl:value key="SegmentIdentityHash">F9R5AoNrHkp+AYiLXC4NEN8DPfU=</sdl:value>
+                <sdl:value key="created_by">GLOBALVOICES\JoseNotario</sdl:value>
+                <sdl:value key="created_on">08/25/2016 11:20:55</sdl:value>
+                <sdl:value key="last_modified_by">GLOBALVOICES\JoseNotario</sdl:value>
+                <sdl:value key="modified_on">08/25/2016 11:20:55</sdl:value>
+            </sdl:seg>
+        </sdl:seg-defs>
+    </trans-unit>
+</group>
+<group>
+    <sdl:cxts>
+        <sdl:cxt id="4"/>
+        <sdl:cxt id="2"/>
+    </sdl:cxts>
+    <trans-unit id="b5a65d7c-17cb-4f42-affa-746bfe8c23fe">
+        <source>Como te llamas?</source>
+        <seg-source>
+            <mrk mtype="seg" mid="3">Como te llamas?</mrk>
+        </seg-source>
+        <target>
+            <mrk mtype="seg" mid="3">
+                <mrk mtype="x-sdl-feedback-deleted" sdl:revid="40852997-f93c-42f6-a984-2c1d997fda02">What</mrk> your<mrk mtype="x-sdl-feedback-deleted" sdl:revid="8952daeb-7fc9-4ec0-a3d4-8a9236225e9b"> name</mrk>
+            <mrk mtype="x-sdl-comment" sdl:cid="UYKkji82PMfAzYA"/></mrk>
+        </target>
+        <sdl:seg-defs>
+            <sdl:seg id="3" conf="Draft" origin="interactive">
+                <sdl:value key="SegmentIdentityHash">q7AYdUbQ855wse8MtfUsLbZyITo=</sdl:value>
+                <sdl:value key="created_by">GLOBALVOICES\JoseNotario</sdl:value>
+                <sdl:value key="created_on">08/25/2016 11:20:56</sdl:value>
+                <sdl:value key="last_modified_by">GLOBALVOICES\JoseNotario</sdl:value>
+                <sdl:value key="modified_on">08/25/2016 11:20:56</sdl:value>
+            </sdl:seg>
+        </sdl:seg-defs>
+    </trans-unit>
+</group>
+<group>
+    <sdl:cxts>
+        <sdl:cxt id="5"/>
+        <sdl:cxt id="2"/>
+    </sdl:cxts>
+    <trans-unit id="73f83fd1-27b7-41b4-8b9f-88f6a441e258">
+        <source>Podriamos tomar algo si tu quieres</source>
+        <seg-source>
+            <mrk mtype="seg" mid="4">Podriamos tomar algo si tu quieres</mrk>
+        </seg-source>
+        <target>
+            <mrk mtype="seg" mid="4">Do you want drink?
+        <mrk mtype="x-sdl-feedback-deleted" sdl:revid="6qQPUjuvC2Ss6if"/><mrk mtype="x-sdl-feedback-deleted" sdl:revid="kfOP7RKKviz5dXc"/><mrk mtype="x-sdl-comment" sdl:cid="4nE8nsZkARnN1QU"/></mrk>
+    </target>
+    <sdl:seg-defs>
+        <sdl:seg id="4" conf="Draft" origin="interactive">
+            <sdl:value key="SegmentIdentityHash">Th/w4Ndz5yOdhuR2aqDgbcI4Aew=</sdl:value>
+            <sdl:value key="created_by">GLOBALVOICES\JoseNotario</sdl:value>
+            <sdl:value key="created_on">08/25/2016 11:20:58</sdl:value>
+            <sdl:value key="last_modified_by">GLOBALVOICES\JoseNotario</sdl:value>
+            <sdl:value key="modified_on">08/25/2016 11:20:58</sdl:value>
+        </sdl:seg>
+    </sdl:seg-defs>
+</trans-unit>
+</group>
+</body>
+</file>
+</xliff>
